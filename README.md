@@ -2,7 +2,7 @@ Hi!
 **My name is S.P. Nowaczyk, but you can call me Gerbill Green or Shariel.**
 I am IT student, who's in love with C++.
 My dream is to excel in low-level programming and become an old, bearded C-Wizzard one day.
-This repository may seem (*or actually is*) empty because but I will gradually add new projects.
+This repository may seem (*or actually is*) empty but I will gradually add new projects.
 
 Things I want to learn one day:
 
