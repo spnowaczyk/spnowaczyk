@@ -3,6 +3,8 @@ Hi!
 I am IT student, who's in love with C++.
 My dream is to excel in low-level programming and become an old, bearded C-Wizzard one day.
 
+Check out my game: Sacred Host!
+
 Things I want to learn one day:
 
 -  🌘 Lua
